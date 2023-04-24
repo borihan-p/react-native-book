@@ -40,10 +40,10 @@ export function HomeScreen(props: HomeScreenProps): JSX.Element {
             data.map(book => (
               <View key={book.id} style={styles.item}>
                 <Text style={styles.textLine}>
-                  <Text style={styles.bookProp}>ID:</Text> {book.id}
+                  <Text style={styles.bookProp}>Title:</Text> {book.title}
                 </Text>
                 <Text style={styles.textLine}>
-                  <Text style={styles.bookProp}>Title:</Text> {book.title}
+                  <Text style={styles.bookProp}>Author:</Text> {book.author}
                 </Text>
                 <Button title="Go to Book Details" onPress={() => navigation.push('BookDetails', book)} />
               </View>
