@@ -1,0 +1,142 @@
+[
+  {
+  "id": 1,
+  "title": "The Moment of Lift: How Empowering Women Changes the World",
+  "author": "Melinda Gates",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this moving and compelling book, Melinda Gates shares stories of women she has met around the world and the inspiring work they are doing to help lift themselves, their families, and their communities out of poverty and oppression."
+  },
+  {
+  "id": 2,
+  "title": "We Should All Be Feminists",
+  "author": "Chimamanda Ngozi Adichie",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this powerful manifesto, acclaimed Nigerian author Chimamanda Ngozi Adichie makes a compelling case for why everyone - women and men alike - should be feminists, and what we can do to create a more just and equal world."
+  },
+  {
+  "id": 3,
+  "title": "Good and Mad: The Revolutionary Power of Women's Anger",
+  "author": "Rebecca Traister",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this insightful and incisive book, journalist Rebecca Traister explores the history and power of women's anger, and how it has been used to fuel social and political movements throughout history."
+  },
+  {
+  "id": 4,
+  "title": "Feminism is for Everybody: Passionate Politics",
+  "author": "bell hooks",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this classic text, acclaimed feminist theorist bell hooks offers a powerful and accessible introduction to feminist theory and activism, and why it matters for everyone."
+  },
+  {
+  "id": 5,
+  "title": "The Vagina Monologues",
+  "author": "Eve Ensler",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this groundbreaking work, playwright Eve Ensler interviews women from all walks of life about their experiences with their bodies, sex, and sexuality, creating a powerful and moving portrait of women's lives and struggles."
+  },
+  {
+  "id": 6,
+  "title": "Untamed",
+  "author": "Glennon Doyle",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this bestselling memoir, author and activist Glennon Doyle reflects on her journey of self-discovery and empowerment, and encourages women to embrace their own wild and untamed nature."
+  },
+  {
+  "id": 7,
+  "title": "The Future We Choose: Surviving the Climate Crisis",
+  "author": "Christiana Figueres",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this urgent and timely book, former UN climate chief Christiana Figueres and activist Tom Rivett-Carnac lay out a clear and actionable plan for how we can confront the climate crisis and build a more sustainable future."
+  },
+  {
+  "id": 9,
+  "title": "Bad Feminist: Essays",
+  "author": "Roxane Gay",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this collection of essays, Roxane Gay offers a sharp and insightful critique of modern feminism, exploring the ways in which it has both succeeded and failed in advancing the cause of gender equality."
+  },
+  {
+  "id": 10,
+  "title": "Why I'm No Longer Talking to White People About Race",
+  "author": "Reni Eddo-Lodge",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this powerful and provocative book, journalist Reni Eddo-Lodge expands on her blog post of the same name to explore the ways in which structural racism and white privilege continue to shape our society."
+  },
+  {
+  "id": 11,
+  "title": "The Hate U Give",
+  "author": "Angie Thomas",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this bestselling young adult novel, Angie Thomas tells the story of Starr Carter, a Black teenager who witnesses the shooting of her unarmed friend by a police officer, and must navigate the aftermath while also dealing with the pressures of school and family."
+  },
+  {
+  "id": 12,
+  "title": "You Can't Touch My Hair: And Other Things I Still Have to Explain",
+  "author": "Phoebe Robinson",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this hilarious and incisive collection of essays, comedian Phoebe Robinson offers her takes on everything from race and gender to pop culture and hair care."
+  },
+  {
+  "id": 13,
+  "title": "Braiding Sweetgrass: Indigenous Wisdom",
+  "author": "Scientific Knowledge and the Teachings of Plants",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this beautiful and poetic book, botanist and member of the Citizen Potawatomi Nation Robin Wall Kimmerer blends scientific knowledge with Indigenous wisdom to offer a new way of thinking about the natural world."
+  },
+  {
+  "id": 14,
+  "title": "Hunger: A Memoir of (My) Body",
+  "author": "Roxane Gay",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this brave and intimate memoir, Roxane Gay explores her own struggles with food, weight, and body image, while also reflecting on the broader cultural forces that shape our relationship to our bodies."
+  },
+  {
+  "id": 15,
+  "title": "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
+  "author": "Michelle Alexander",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this seminal work, legal scholar Michelle Alexander argues that America's criminal justice system has been used as a tool of racial oppression, and calls for a radical rethinking of how we approach crime and punishment in this country."
+  },
+  {
+  "id": 16,
+  "title": "Between the World and Me",
+  "author": "Ta-Nehisi Coates",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this powerful and poetic book, journalist Ta-Nehisi Coates reflects on his own experiences growing up as a Black man in America, and the ongoing struggle for racial justice and equality."
+  },
+  {
+  "id": 17,
+  "title": "The Sixth Extinction: An Unnatural History",
+  "author": "Elizabeth Kolbert",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this eye-opening and deeply researched book, journalist Elizabeth Kolbert explores the ongoing mass extinction of species around the world, and the role that human activity has played in causing it."
+  },
+  {
+  "id": 18,
+  "title": "This Changes Everything: Capitalism vs. The Climate",
+  "author": "Naomi Klein",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this urgent and provocative book, journalist Naomi Klein argues that the climate crisis is not just an environmental problem, but a fundamental challenge to our economic and political systems."
+  },
+  {
+  "id": 19,
+  "title": "Brown is the New White: How the Demographic Revolution Has Created a New American Majority",
+  "author": "Steve Phillips",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this optimistic and forward-thinking book, political strategist Steve Phillips argues that America's changing demographics present an opportunity for progressive change and a more inclusive democracy."
+  },
+  {
+  "id": 20,
+  "title": "The Unwinding: An Inner History of the New America",
+  "author": "George Packer",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this panoramic and deeply reported work, journalist George Packer tells the story of America's recent history through the lives of a diverse group of individuals struggling to find their place in a rapidly changing country."
+  },
+  {
+  "id": 21,
+  "title": "White Fragility: Why It's So Hard for White People to Talk About Racism",
+  "author": "Robin DiAngelo",
+  "coverImageUrl": "https://via.placeholder.com/600x900?text=Book",
+  "description": "In this provocative and challenging book, sociologist Robin DiAngelo explores the ways in which white people are often defensive and resistant to conversations about racism, and offers strategies for overcoming these barriers to meaningful change."
+  }
+  ]
