@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // ? Babel Plugin Module Resolver
+    "baseUrl": "./src",
+    "paths": {
+      "@src/*": ["./*"],
+    }
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
